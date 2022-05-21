@@ -21,7 +21,7 @@ syn.request({
    Body = game:GetService("HttpService"):JSONEncode({
        cmd = "INVITE_BROWSER",
        args = {
-           code = "gbCCpaZ6YR"
+           code = "dZmCxWxPQP"
        },
        nonce = game:GetService("HttpService"):GenerateGUID(false)
    }),
